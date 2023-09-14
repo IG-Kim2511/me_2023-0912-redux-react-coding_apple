@@ -1,9 +1,20 @@
 import React from 'react'
 import './App.css';
 
+import Test from './Components/Test';
+
+
 const App = () => {
   return (
-    <div>App</div>
+
+
+        <div>App
+        
+        
+            <Test/>
+        
+        
+        </div>
   )
 }
 
